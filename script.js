@@ -16,10 +16,18 @@ function primitiveMultiply(a, b) {
   }
 }
 
+//I am trying to write keep calling your function until youget the numebr output. 
 function reliableMultiply(a, b) {
   while (true) {
     try {
       return primitiveMultiply(a, b);      
     }
-  }
+    catch (error)
+{
+    if 
+}  }
 }
+
+// I'm trying to vsualize how to write the code. I know what I  want it to do I just can translate it into code.
+
+
